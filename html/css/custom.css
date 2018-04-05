@@ -1,0 +1,37 @@
+.bg1{
+	 background-image: url("header.png");
+   height: 150px;
+   width: 100%;
+}
+.bg2{
+	 background-image: url("freelancework.png");
+   height: 100px;
+   width: 100%;
+   
+}
+.bg3{
+	 background-image: url("ourwork.png");
+   height: 100px;
+   width: 100%;
+}
+
+.logo{
+	margin-top: 20px;
+}
+.bg-light{
+	background-color: #fff!important;
+}
+
+
+
+
+
+
+@media (min-width: 768px) {
+
+.bg-light{
+	background-color: #fff!important;
+	margin-left: 400px;
+}
+
+}
