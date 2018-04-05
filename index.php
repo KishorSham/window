@@ -54,18 +54,38 @@ include ('html/includes/header.php');
 <div class="container" id="about">
   <div class="row">
     <div class="col-md-6">
-      <h3 class="text-center">About</h3>
+      <h3 class="text-center">About Us</h3>
       <p>Window Creagtion Cube Portfolio can easily be modified to suit your needs to display any content you want (images, text, Youtube & Vimeo video, html5 self-hosted video, iframe content, etc.). Also, it has a built-in lightbox and full-screen modal popup (singlePage): check it by clicking on `view larger` or `more info` buttons when you mouse over the grid items below. </p>
        <p>Window Creagtion Cube Portfolio can easily be modified to suit your needs to display any content you want (images, text, Youtube & Vimeo video, html5 self-hosted video, iframe content, etc.). Also, it has a built-in lightbox and full-screen modal popup (singlePage): check it by clicking on `view larger` or `more info` buttons when you mouse over the grid items below. </p>
     </div>
     <div class="col-md-6">
-      
+      <h3 class="text-center">Contact Us</h3>
+      <form>
+  <div class="form-group row">
+    <label for="inputText" class="col-sm-2 col-form-label">Name</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="inputText" placeholder="Name">
+    </div>
+  </div>
+    <div class="form-group row">
+    <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="Email" class="form-control" id="inputEmail" placeholder="Email">
+    </div>
+  </div>
+   <div class="form-group row">
+    <label for="inputPassword3" class="col-sm-2 col-form-label">Message</label>
+    <div class="col-sm-10">
+     
+    </div>
+  </div>
+</form>
     </div>
   </div>
 </div>
 
 
-<img src="html/images/imgae.png">
+<img src="html/images/imgae.png" style="width: 100%">
 
 <?php
 include ('html/includes/footer.php');
