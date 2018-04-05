@@ -7,10 +7,16 @@
 	 background-image: url("freelancework.png");
    height: 100px;
    width: 100%;
-   
+
 }
 .bg3{
 	 background-image: url("ourwork.png");
+   height: 100px;
+   width: 100%;
+}
+
+.fbg{
+	 background-image: url("footer.png");
    height: 100px;
    width: 100%;
 }
@@ -22,16 +28,33 @@
 	background-color: #fff!important;
 }
 
+.heading{
+	padding-top: 25px;
+	font-size: 30px;
+	font-weight: bold;
+}
 
+.footer{
+	padding-top: 50px;
+	font-size: 15px;
+	color: #ccc;
+	font-weight: bold;
+}
 
+.nav-item{
+	padding-left: 25px;
+}
 
+.navbar-light .navbar-nav .nav-link{
+	color: #000;
+}
 
 
 @media (min-width: 768px) {
 
 .bg-light{
 	background-color: #fff!important;
-	margin-left: 400px;
+	margin-left: 350px;
 }
 
 }

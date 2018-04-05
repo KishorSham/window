@@ -1,13 +1,8 @@
-	<footer>
-		<div class="container-fluid">
+	<footer class="fbg">
+		<div class="container">
 			<div class="row">
-				<div class="co;-md-6 contentfooter leftfooter">
-					<a>About</a>
-					<a>Portal</a>
-					<a>Contact</a>
-				</div>
-				<div class="co;-md-6 contentfooter rightfooter">
-					Designed by <a> United Systec Solutions</a>
+				<div class="col-md-12 footer text-center">
+					© 2018 WINDOW CREATION ALL RIGHTS RESERVED
 				</div>
 			</div>
 		</div>
