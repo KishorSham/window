@@ -49,6 +49,23 @@
 	color: #000;
 }
 
+.about , .contact{
+font-size: 30px;
+font-weight: bold;
+letter-spacing: 2px;
+padding-bottom: 30px;
+}
+
+p{
+	font-size: 18px !important;
+}
+
+.btn-send{
+	color: #000;
+    background-color: #fff200;
+    border-color: #fff200;
+    float: right;
+	}
 
 @media (min-width: 768px) {
 

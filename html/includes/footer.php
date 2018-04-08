@@ -7,4 +7,3 @@
 			</div>
 		</div>
 	</footer>
-<script type="text/javascript" src="http://arrow.scrolltotop.com/arrow71.js"></script>
