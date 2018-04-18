@@ -1,37 +1,50 @@
+body{
+	margin-top: -20px !important;
+}
+
 .bg1{
-	 background-image: url("header.png");
-   height: 150px;
+	 background-image: url("header1.png");
+   height: 85px;
    width: 100%;
 }
 .bg2{
 	 background-image: url("freelancework.png");
-   height: 100px;
+   height: 60px;
    width: 100%;
 
 }
 .bg3{
 	 background-image: url("ourwork.png");
-   height: 100px;
+   height: 60px;
    width: 100%;
 }
 
 .fbg{
 	 background-image: url("footer.png");
-   height: 100px;
+   height: 80px;
    width: 100%;
 }
 
 .logo{
-	margin-top: 20px;
+	margin: 20px;
+	width: 15%;
+	padding: 10px;
 }
 .bg-light{
 	background-color: #fff!important;
 }
 
 .heading{
-	padding-top: 25px;
-	font-size: 30px;
-	font-weight: bold;
+	padding-top: 10px;
+	font-family: Cambria,Georgia,serif;
+font-size: 26px !important;
+padding-bottom: 20px;
+color: #000;
+
+}
+
+.grid{
+	margin-top: 30px;
 }
 
 .footer{
@@ -50,14 +63,16 @@
 }
 
 .about , .contact{
-font-size: 30px;
-font-weight: bold;
-letter-spacing: 2px;
-padding-bottom: 30px;
+font-family: Cambria,Georgia,serif;
+font-size: 34px;
+padding-bottom: 20px;
+margin-top: 20px;
 }
 
 p{
-	font-size: 18px !important;
+	font-size: 15px !important;
+	color: #666c72;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
 }
 
 .btn-send{

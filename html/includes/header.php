@@ -12,8 +12,8 @@
 </head>
 <body>
 <header class="bg1">
-<div class="container">
-<img src="html/images/logo.png" class="logo img-fluid" alt="logo">
+<div class="container-fluid">
+<img src="html/images/logo.png" class="logo" alt="logo">
 </div>
 </header>
  <nav class="navbar navbar-expand-md bg-light navbar-light">
